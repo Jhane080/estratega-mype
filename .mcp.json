@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "censo2025": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--group", "mcp", "mcp/censo2025.py"],
+      "env": {}
+    }
+  }
+}

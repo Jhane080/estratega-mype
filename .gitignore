@@ -12,3 +12,6 @@ wheels/
 # Secretos: la clave de API nunca se sube
 .env
 .streamlit/secrets.toml
+
+# Salidas crudas de REDATAM (se regeneran con scripts/preparar_censo2025.py)
+salidas/
