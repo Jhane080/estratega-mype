@@ -1,0 +1,1142 @@
+fecha,pedido,producto,categoria,temporada,canal,cantidad,precio_lista,descuento,total
+2026-08-01,#1001,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-01,#1002,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-01,#1003,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-01,#1004,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-01,#1005,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-01,#1006,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-01,#1007,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-08-01,#1008,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-01,#1009,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-08-01,#1010,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-01,#1011,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-01,#1012,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-01,#1013,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-01,#1014,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-01,#1015,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-01,#1016,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-01,#1017,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-01,#1018,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-02,#1019,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-02,#1020,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-02,#1021,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-02,#1022,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-02,#1023,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-08-02,#1024,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-02,#1025,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-08-02,#1026,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-08-02,#1027,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-08-02,#1028,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-02,#1029,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-02,#1030,Casaca rompevientos temporada pasada,Casacas,pasada,WhatsApp,1,259,0.4,155.4
+2026-08-02,#1031,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-03,#1032,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-03,#1033,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-03,#1034,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-03,#1035,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-03,#1036,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-03,#1037,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-03,#1038,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-03,#1039,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-08-03,#1040,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-08-03,#1041,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-03,#1042,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-03,#1043,Casaca rompevientos temporada pasada,Casacas,pasada,Web,1,259,0.4,155.4
+2026-08-03,#1044,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-03,#1045,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-04,#1046,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-04,#1047,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-04,#1048,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-04,#1049,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-04,#1050,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-04,#1051,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-04,#1052,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-08-04,#1053,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-04,#1054,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-04,#1055,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-04,#1056,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-04,#1057,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-08-04,#1058,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-05,#1059,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-05,#1060,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-05,#1061,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-05,#1062,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-05,#1063,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-05,#1064,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-08-05,#1065,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-05,#1066,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-08-05,#1067,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-08-05,#1068,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-05,#1069,Casaca rompevientos temporada pasada,Casacas,pasada,WhatsApp,1,259,0.4,155.4
+2026-08-05,#1070,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-06,#1071,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-06,#1072,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-06,#1073,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-06,#1074,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-06,#1075,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-06,#1076,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-06,#1077,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-08-06,#1078,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-08-06,#1079,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-06,#1080,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-06,#1081,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-06,#1082,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-06,#1083,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-06,#1084,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-06,#1085,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-07,#1086,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-07,#1087,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-07,#1088,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-07,#1089,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-07,#1090,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-07,#1091,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-08-07,#1092,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-07,#1093,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-07,#1094,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-07,#1095,Zapatillas retro edición pasada,Zapatillas,pasada,Facebook,1,459,0.4,275.4
+2026-08-07,#1096,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-07,#1097,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-07,#1098,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-08,#1099,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-08,#1100,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-08,#1101,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-08,#1102,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-08,#1103,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-08,#1104,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-08-08,#1105,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-08,#1106,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-08,#1107,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-08,#1108,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-08,#1109,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-08-08,#1110,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-08-08,#1111,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-08-08,#1112,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-08-08,#1113,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-08-08,#1114,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-08,#1115,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-08,#1116,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-08,#1117,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-09,#1118,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-09,#1119,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-09,#1120,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-09,#1121,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-09,#1122,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-08-09,#1123,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-09,#1124,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-09,#1125,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-09,#1126,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-08-09,#1127,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-09,#1128,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-09,#1129,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-10,#1130,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-10,#1131,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-10,#1132,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-08-10,#1133,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-10,#1134,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-10,#1135,Zapatillas retro edición pasada,Zapatillas,pasada,Facebook,1,459,0.4,275.4
+2026-08-10,#1136,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-10,#1137,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-10,#1138,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-11,#1139,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-11,#1140,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-11,#1141,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-11,#1142,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-11,#1143,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-11,#1144,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-11,#1145,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-08-11,#1146,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-08-11,#1147,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-11,#1148,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-11,#1149,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-11,#1150,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-11,#1151,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-12,#1152,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-12,#1153,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-12,#1154,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-12,#1155,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-12,#1156,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-08-12,#1157,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-12,#1158,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-12,#1159,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-12,#1160,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-12,#1161,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-13,#1162,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-13,#1163,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-13,#1164,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-13,#1165,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-13,#1166,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-08-13,#1167,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-08-13,#1168,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-13,#1169,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-13,#1170,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-13,#1171,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-13,#1172,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-14,#1173,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-14,#1174,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-14,#1175,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-08-14,#1176,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-14,#1177,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-14,#1178,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-08-14,#1179,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-08-14,#1180,Zapatillas skate blancas,Zapatillas,actual,Live,1,389,0.0,389.0
+2026-08-14,#1181,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-14,#1182,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-14,#1183,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-15,#1184,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-15,#1185,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-15,#1186,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-08-15,#1187,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-15,#1188,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-15,#1189,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-15,#1190,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-08-15,#1191,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-15,#1192,Zapatillas retro edición pasada,Zapatillas,pasada,Live,1,459,0.4,275.4
+2026-08-15,#1193,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-15,#1194,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-15,#1195,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-15,#1196,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-15,#1197,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-08-16,#1198,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-16,#1199,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-08-16,#1200,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-08-16,#1201,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-16,#1202,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-08-16,#1203,Zapatillas retro edición pasada,Zapatillas,pasada,Live,1,459,0.4,275.4
+2026-08-16,#1204,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-16,#1205,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-16,#1206,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-16,#1207,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-17,#1208,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-17,#1209,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-17,#1210,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-17,#1211,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-17,#1212,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-17,#1213,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-17,#1214,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-08-17,#1215,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-17,#1216,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-08-17,#1217,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-17,#1218,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-17,#1219,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-08-17,#1220,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-17,#1221,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-18,#1222,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-18,#1223,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-18,#1224,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-18,#1225,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-18,#1226,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-18,#1227,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-18,#1228,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-18,#1229,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-18,#1230,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-19,#1231,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-19,#1232,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-19,#1233,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-08-19,#1234,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-19,#1235,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-08-19,#1236,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-08-19,#1237,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-19,#1238,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-19,#1239,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-20,#1240,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-20,#1241,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-20,#1242,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-08-20,#1243,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-20,#1244,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-08-20,#1245,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-08-20,#1246,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-08-20,#1247,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-20,#1248,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-21,#1249,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-21,#1250,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-21,#1251,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-21,#1252,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-21,#1253,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-21,#1254,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-08-21,#1255,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-08-21,#1256,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-21,#1257,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-21,#1258,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-21,#1259,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-22,#1260,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-22,#1261,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-08-22,#1262,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-22,#1263,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-22,#1264,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-22,#1265,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-08-22,#1266,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-22,#1267,Zapatillas retro edición pasada,Zapatillas,pasada,WhatsApp,1,459,0.4,275.4
+2026-08-22,#1268,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-22,#1269,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-08-22,#1270,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-23,#1271,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-23,#1272,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-23,#1273,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-23,#1274,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-23,#1275,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-23,#1276,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-08-23,#1277,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-08-23,#1278,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-08-23,#1279,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-08-23,#1280,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-23,#1281,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-24,#1282,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-24,#1283,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-24,#1284,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-24,#1285,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-24,#1286,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-08-24,#1287,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-24,#1288,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-24,#1289,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-08-24,#1290,Casaca rompevientos temporada pasada,Casacas,pasada,Instagram,1,259,0.4,155.4
+2026-08-24,#1291,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-25,#1292,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-08-25,#1293,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-25,#1294,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-25,#1295,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-08-25,#1296,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-25,#1297,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-25,#1298,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-08-25,#1299,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-25,#1300,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-26,#1301,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-26,#1302,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-26,#1303,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-26,#1304,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-26,#1305,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-26,#1306,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-26,#1307,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-26,#1308,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-26,#1309,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-26,#1310,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-08-26,#1311,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-27,#1312,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-27,#1313,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-27,#1314,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-08-27,#1315,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-27,#1316,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-08-27,#1317,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-08-27,#1318,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-08-27,#1319,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-27,#1320,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-27,#1321,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-27,#1322,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-27,#1323,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-28,#1324,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-28,#1325,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-28,#1326,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-28,#1327,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-08-28,#1328,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-08-28,#1329,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-08-28,#1330,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-08-28,#1331,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-08-28,#1332,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-28,#1333,Zapatillas skate blancas,Zapatillas,actual,Live,1,389,0.0,389.0
+2026-08-28,#1334,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-08-28,#1335,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-28,#1336,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-08-28,#1337,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-08-29,#1338,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-29,#1339,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-08-29,#1340,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-29,#1341,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-08-29,#1342,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-08-29,#1343,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-08-29,#1344,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-08-29,#1345,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-08-29,#1346,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-29,#1347,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-29,#1348,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-08-29,#1349,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-29,#1350,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-29,#1351,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-29,#1352,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-08-29,#1353,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-08-30,#1354,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-08-30,#1355,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-30,#1356,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-08-30,#1357,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-30,#1358,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-08-30,#1359,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-08-30,#1360,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-08-30,#1361,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-08-30,#1362,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-08-30,#1363,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-08-30,#1364,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-08-31,#1365,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-08-31,#1366,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-08-31,#1367,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-08-31,#1368,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-08-31,#1369,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-08-31,#1370,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-08-31,#1371,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-08-31,#1372,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-08-31,#1373,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-08-31,#1374,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-08-31,#1375,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-09-01,#1376,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-01,#1377,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-01,#1378,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-01,#1379,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-01,#1380,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-01,#1381,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-01,#1382,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-01,#1383,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-01,#1384,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-01,#1385,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-02,#1386,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-02,#1387,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-02,#1388,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-02,#1389,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-02,#1390,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-02,#1391,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-02,#1392,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-09-02,#1393,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-09-02,#1394,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-02,#1395,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-03,#1396,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-03,#1397,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-09-03,#1398,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-03,#1399,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-03,#1400,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-03,#1401,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-09-03,#1402,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-09-03,#1403,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-03,#1404,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-03,#1405,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-03,#1406,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-03,#1407,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-03,#1408,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-03,#1409,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-04,#1410,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-04,#1411,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-04,#1412,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-04,#1413,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-04,#1414,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-09-04,#1415,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-04,#1416,Zapatillas retro edición pasada,Zapatillas,pasada,Live,1,459,0.4,275.4
+2026-09-04,#1417,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-04,#1418,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-04,#1419,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-04,#1420,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-04,#1421,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-04,#1422,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-04,#1423,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-05,#1424,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-05,#1425,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-05,#1426,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-05,#1427,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-05,#1428,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-05,#1429,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-05,#1430,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-05,#1431,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-05,#1432,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-05,#1433,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-09-05,#1434,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-09-05,#1435,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-05,#1436,Zapatillas retro edición pasada,Zapatillas,pasada,WhatsApp,1,459,0.4,275.4
+2026-09-05,#1437,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-05,#1438,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-05,#1439,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-05,#1440,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-05,#1441,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-05,#1442,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-05,#1443,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-05,#1444,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-05,#1445,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-05,#1446,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-05,#1447,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-05,#1448,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-06,#1449,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-09-06,#1450,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-09-06,#1451,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-09-06,#1452,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-06,#1453,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-06,#1454,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-06,#1455,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-06,#1456,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-06,#1457,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-06,#1458,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-07,#1459,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-07,#1460,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-07,#1461,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-07,#1462,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-07,#1463,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-07,#1464,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-07,#1465,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-07,#1466,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-07,#1467,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-07,#1468,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-07,#1469,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-07,#1470,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-09-07,#1471,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-07,#1472,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-09-07,#1473,Zapatillas retro edición pasada,Zapatillas,pasada,Instagram,1,459,0.4,275.4
+2026-09-07,#1474,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-07,#1475,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-09-07,#1476,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-09-07,#1477,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-08,#1478,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-08,#1479,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-08,#1480,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-08,#1481,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-08,#1482,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-08,#1483,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-08,#1484,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-08,#1485,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-09-08,#1486,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-08,#1487,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-08,#1488,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-08,#1489,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-08,#1490,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-09,#1491,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-09,#1492,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-09,#1493,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-09,#1494,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-09,#1495,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-09,#1496,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-09-09,#1497,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-09,#1498,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-09,#1499,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-09,#1500,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-09,#1501,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-09,#1502,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-10,#1503,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-10,#1504,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-09-10,#1505,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-10,#1506,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-09-10,#1507,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-09-10,#1508,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-10,#1509,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-09-10,#1510,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-10,#1511,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-10,#1512,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-10,#1513,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-11,#1514,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-11,#1515,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-11,#1516,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-11,#1517,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-11,#1518,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-09-11,#1519,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-11,#1520,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-11,#1521,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-09-12,#1522,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-12,#1523,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-12,#1524,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-12,#1525,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-12,#1526,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-09-12,#1527,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-09-12,#1528,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-12,#1529,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-09-12,#1530,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-09-12,#1531,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-09-12,#1532,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-12,#1533,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-12,#1534,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-12,#1535,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-12,#1536,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-12,#1537,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-12,#1538,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-12,#1539,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-12,#1540,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-12,#1541,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-09-13,#1542,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-13,#1543,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-13,#1544,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-13,#1545,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-13,#1546,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-09-13,#1547,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-13,#1548,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-09-13,#1549,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-13,#1550,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-13,#1551,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-13,#1552,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-09-14,#1553,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-14,#1554,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-14,#1555,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-14,#1556,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-14,#1557,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-14,#1558,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-09-14,#1559,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-14,#1560,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-14,#1561,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-14,#1562,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-14,#1563,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-15,#1564,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-15,#1565,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-09-15,#1566,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-15,#1567,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-09-15,#1568,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-15,#1569,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-15,#1570,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-15,#1571,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-09-16,#1572,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-16,#1573,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-16,#1574,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-16,#1575,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-16,#1576,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-16,#1577,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-16,#1578,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-16,#1579,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-16,#1580,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-16,#1581,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-16,#1582,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-16,#1583,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-17,#1584,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-17,#1585,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-17,#1586,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-17,#1587,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-17,#1588,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-17,#1589,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-17,#1590,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-17,#1591,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-09-17,#1592,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-17,#1593,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-17,#1594,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-09-17,#1595,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-17,#1596,Casaca rompevientos temporada pasada,Casacas,pasada,Instagram,1,259,0.4,155.4
+2026-09-17,#1597,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-18,#1598,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-18,#1599,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-18,#1600,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-18,#1601,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-09-18,#1602,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-18,#1603,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-09-18,#1604,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-18,#1605,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-18,#1606,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-18,#1607,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-19,#1608,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-19,#1609,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-19,#1610,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-19,#1611,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-09-19,#1612,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-19,#1613,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-19,#1614,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-19,#1615,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-19,#1616,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-19,#1617,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-19,#1618,Zapatillas retro edición pasada,Zapatillas,pasada,Instagram,1,459,0.4,275.4
+2026-09-19,#1619,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-19,#1620,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-19,#1621,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-19,#1622,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-19,#1623,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-19,#1624,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-19,#1625,Casaca rompevientos temporada pasada,Casacas,pasada,Live,1,259,0.4,155.4
+2026-09-19,#1626,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-19,#1627,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-09-20,#1628,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-20,#1629,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-20,#1630,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-20,#1631,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-20,#1632,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-09-20,#1633,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-20,#1634,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-20,#1635,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-20,#1636,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-20,#1637,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-21,#1638,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-21,#1639,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-21,#1640,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-21,#1641,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-21,#1642,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-09-21,#1643,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-21,#1644,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-21,#1645,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-21,#1646,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-21,#1647,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-22,#1648,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-09-22,#1649,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-22,#1650,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-22,#1651,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-22,#1652,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-22,#1653,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-09-22,#1654,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-22,#1655,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-22,#1656,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-09-22,#1657,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-22,#1658,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-23,#1659,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-23,#1660,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-23,#1661,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-23,#1662,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-09-23,#1663,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-23,#1664,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-23,#1665,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-23,#1666,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-24,#1667,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-24,#1668,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-24,#1669,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-24,#1670,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-24,#1671,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-24,#1672,Zapatillas retro edición pasada,Zapatillas,pasada,WhatsApp,1,459,0.4,275.4
+2026-09-24,#1673,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-09-24,#1674,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-24,#1675,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-25,#1676,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-25,#1677,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-09-25,#1678,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-25,#1679,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-09-25,#1680,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-09-25,#1681,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-25,#1682,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-25,#1683,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-25,#1684,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-09-26,#1685,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-26,#1686,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-26,#1687,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-09-26,#1688,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-26,#1689,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-26,#1690,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-26,#1691,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-26,#1692,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-09-26,#1693,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-26,#1694,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-09-26,#1695,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-26,#1696,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-26,#1697,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-09-26,#1698,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-09-26,#1699,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-09-26,#1700,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-26,#1701,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-26,#1702,Casaca rompevientos temporada pasada,Casacas,pasada,Live,1,259,0.4,155.4
+2026-09-26,#1703,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-09-26,#1704,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-09-27,#1705,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-09-27,#1706,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-27,#1707,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-27,#1708,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-09-27,#1709,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-27,#1710,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-09-27,#1711,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-27,#1712,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-09-27,#1713,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-09-27,#1714,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-09-27,#1715,Casaca rompevientos temporada pasada,Casacas,pasada,Web,1,259,0.4,155.4
+2026-09-27,#1716,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-28,#1717,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-09-28,#1718,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-28,#1719,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-28,#1720,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-28,#1721,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-28,#1722,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-28,#1723,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-28,#1724,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-09-28,#1725,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-28,#1726,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-28,#1727,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-28,#1728,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-09-28,#1729,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-09-28,#1730,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-29,#1731,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-29,#1732,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-09-29,#1733,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-29,#1734,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-09-29,#1735,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-09-29,#1736,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-29,#1737,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-09-29,#1738,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-09-29,#1739,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-09-29,#1740,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-09-29,#1741,Zapatillas retro edición pasada,Zapatillas,pasada,WhatsApp,1,459,0.4,275.4
+2026-09-29,#1742,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-09-29,#1743,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-29,#1744,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-09-29,#1745,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-09-29,#1746,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-30,#1747,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-09-30,#1748,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-09-30,#1749,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-30,#1750,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-09-30,#1751,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-09-30,#1752,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-09-30,#1753,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-09-30,#1754,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-09-30,#1755,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-09-30,#1756,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-09-30,#1757,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-09-30,#1758,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-09-30,#1759,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-01,#1760,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-01,#1761,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-01,#1762,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-01,#1763,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-01,#1764,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-01,#1765,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-10-01,#1766,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-01,#1767,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-10-01,#1768,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-01,#1769,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-01,#1770,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-10-01,#1771,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-01,#1772,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-01,#1773,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-01,#1774,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-02,#1775,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-02,#1776,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-02,#1777,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-02,#1778,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-10-02,#1779,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-10-02,#1780,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-02,#1781,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-02,#1782,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-02,#1783,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-10-02,#1784,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-02,#1785,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-02,#1786,Medias pack x3,Accesorios,actual,Live,1,45,0.0,45.0
+2026-10-03,#1787,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-03,#1788,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-03,#1789,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-03,#1790,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-03,#1791,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-03,#1792,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-03,#1793,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-10-03,#1794,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-03,#1795,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-03,#1796,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-03,#1797,Casaca rompevientos temporada pasada,Casacas,pasada,Tienda física,1,259,0.4,155.4
+2026-10-03,#1798,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-03,#1799,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-03,#1800,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-04,#1801,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-04,#1802,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-04,#1803,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-04,#1804,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-04,#1805,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-04,#1806,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-04,#1807,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-04,#1808,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-04,#1809,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-05,#1810,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-05,#1811,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-05,#1812,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-05,#1813,Hoodie básico gris,Hoodies,actual,Live,1,189,0.0,189.0
+2026-10-05,#1814,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-05,#1815,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-05,#1816,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-05,#1817,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-10-05,#1818,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-10-05,#1819,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-05,#1820,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-06,#1821,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-06,#1822,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-06,#1823,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-06,#1824,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-06,#1825,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-06,#1826,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-06,#1827,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-06,#1828,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-10-06,#1829,Zapatillas retro edición pasada,Zapatillas,pasada,Web,1,459,0.4,275.4
+2026-10-06,#1830,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-10-06,#1831,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-06,#1832,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-06,#1833,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-07,#1834,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-07,#1835,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-07,#1836,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-07,#1837,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-07,#1838,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-07,#1839,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-07,#1840,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-10-07,#1841,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-07,#1842,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-08,#1843,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-08,#1844,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-08,#1845,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-08,#1846,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-08,#1847,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-08,#1848,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-08,#1849,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-10-08,#1850,Zapatillas retro edición pasada,Zapatillas,pasada,Live,1,459,0.4,275.4
+2026-10-08,#1851,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-08,#1852,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-08,#1853,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-08,#1854,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-09,#1855,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-09,#1856,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-09,#1857,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-09,#1858,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-09,#1859,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-09,#1860,Pantalón cargo beige,Pantalones,actual,Instagram,1,169,0.0,169.0
+2026-10-09,#1861,Zapatillas skate blancas,Zapatillas,actual,Live,1,389,0.0,389.0
+2026-10-09,#1862,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-09,#1863,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-10,#1864,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-10,#1865,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-10,#1866,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-10,#1867,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-10,#1868,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-10,#1869,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-10,#1870,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-10,#1871,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-10,#1872,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-10-10,#1873,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-10-10,#1874,Pantalón cargo beige,Pantalones,actual,Live,1,169,0.0,169.0
+2026-10-10,#1875,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-10,#1876,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-10,#1877,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-10,#1878,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-10,#1879,Casaca rompevientos temporada pasada,Casacas,pasada,Live,1,259,0.4,155.4
+2026-10-10,#1880,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-10,#1881,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-10,#1882,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-10,#1883,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-10,#1884,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-10,#1885,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-10,#1886,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-11,#1887,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-11,#1888,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-10-11,#1889,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-10-11,#1890,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-11,#1891,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-11,#1892,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-11,#1893,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-11,#1894,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-12,#1895,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-12,#1896,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-12,#1897,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-12,#1898,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-12,#1899,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-12,#1900,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-12,#1901,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-12,#1902,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-10-12,#1903,Casaca rompevientos temporada pasada,Casacas,pasada,Live,1,259,0.4,155.4
+2026-10-12,#1904,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-12,#1905,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-12,#1906,Medias pack x3,Accesorios,actual,Facebook,1,45,0.0,45.0
+2026-10-12,#1907,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-13,#1908,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-13,#1909,Polera oversize negra,Poleras,actual,Facebook,1,89,0.0,89.0
+2026-10-13,#1910,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-13,#1911,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-13,#1912,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-10-13,#1913,Gorra bordada,Accesorios,actual,Facebook,1,79,0.0,79.0
+2026-10-13,#1914,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-13,#1915,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-13,#1916,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-13,#1917,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-13,#1918,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-13,#1919,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-14,#1920,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-14,#1921,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-14,#1922,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-14,#1923,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-14,#1924,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-10-14,#1925,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-10-14,#1926,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-14,#1927,Gorra bordada,Accesorios,actual,Facebook,1,79,0.0,79.0
+2026-10-14,#1928,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-14,#1929,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-15,#1930,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-15,#1931,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-15,#1932,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-15,#1933,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-15,#1934,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-15,#1935,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-15,#1936,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-15,#1937,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-10-15,#1938,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-15,#1939,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-15,#1940,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-15,#1941,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-15,#1942,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-16,#1943,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-16,#1944,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-16,#1945,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-16,#1946,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-16,#1947,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-16,#1948,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-16,#1949,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-10-16,#1950,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-16,#1951,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-17,#1952,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-17,#1953,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-17,#1954,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-17,#1955,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-17,#1956,Polera estampada gráfica,Poleras,actual,WhatsApp,1,99,0.0,99.0
+2026-10-17,#1957,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-17,#1958,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-10-17,#1959,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-17,#1960,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-10-17,#1961,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-17,#1962,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-17,#1963,Zapatillas skate blancas,Zapatillas,actual,Live,1,389,0.0,389.0
+2026-10-17,#1964,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-17,#1965,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-17,#1966,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-17,#1967,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-17,#1968,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-18,#1969,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-18,#1970,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-18,#1971,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-18,#1972,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-18,#1973,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-18,#1974,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-18,#1975,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-18,#1976,Hoodie básico gris,Hoodies,actual,Facebook,1,189,0.0,189.0
+2026-10-18,#1977,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-18,#1978,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-18,#1979,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-10-18,#1980,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-18,#1981,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-18,#1982,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-18,#1983,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-18,#1984,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-19,#1985,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-19,#1986,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-19,#1987,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-19,#1988,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-19,#1989,Hoodie colaboración edición limitada,Hoodies,actual,Live,1,349,0.0,349.0
+2026-10-19,#1990,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-10-19,#1991,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-19,#1992,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-19,#1993,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-19,#1994,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-19,#1995,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-19,#1996,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-19,#1997,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-19,#1998,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-20,#1999,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-20,#2000,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-20,#2001,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-20,#2002,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-20,#2003,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-20,#2004,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-20,#2005,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-20,#2006,Gorra bordada,Accesorios,actual,Instagram,1,79,0.0,79.0
+2026-10-20,#2007,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-20,#2008,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-20,#2009,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-20,#2010,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-21,#2011,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-21,#2012,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-21,#2013,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-21,#2014,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-21,#2015,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-21,#2016,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-21,#2017,Zapatillas retro edición pasada,Zapatillas,pasada,Tienda física,1,459,0.4,275.4
+2026-10-21,#2018,Zapatillas skate blancas,Zapatillas,actual,Live,1,389,0.0,389.0
+2026-10-21,#2019,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-21,#2020,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-21,#2021,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-21,#2022,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-21,#2023,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-21,#2024,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-22,#2025,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-22,#2026,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-22,#2027,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-22,#2028,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-22,#2029,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-22,#2030,Pantalón cargo beige,Pantalones,actual,Facebook,1,169,0.0,169.0
+2026-10-22,#2031,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-22,#2032,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-22,#2033,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-22,#2034,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-22,#2035,Medias pack x3,Accesorios,actual,Web,1,45,0.0,45.0
+2026-10-23,#2036,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-23,#2037,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-23,#2038,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-23,#2039,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-23,#2040,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-23,#2041,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-23,#2042,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-10-23,#2043,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-23,#2044,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-24,#2045,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-24,#2046,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-24,#2047,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-24,#2048,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-24,#2049,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-24,#2050,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-24,#2051,Polera estampada gráfica,Poleras,actual,Live,1,99,0.0,99.0
+2026-10-24,#2052,Hoodie básico gris,Hoodies,actual,WhatsApp,1,189,0.0,189.0
+2026-10-24,#2053,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-24,#2054,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-24,#2055,Hoodie colaboración edición limitada,Hoodies,actual,Facebook,1,349,0.0,349.0
+2026-10-24,#2056,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-10-24,#2057,Zapatillas retro edición pasada,Zapatillas,pasada,Instagram,1,459,0.4,275.4
+2026-10-24,#2058,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-24,#2059,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-24,#2060,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-24,#2061,Casaca rompevientos temporada pasada,Casacas,pasada,Web,1,259,0.4,155.4
+2026-10-24,#2062,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-25,#2063,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-25,#2064,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-25,#2065,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-25,#2066,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-25,#2067,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-25,#2068,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-25,#2069,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-25,#2070,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-25,#2071,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-25,#2072,Zapatillas skate blancas,Zapatillas,actual,WhatsApp,1,389,0.0,389.0
+2026-10-25,#2073,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-25,#2074,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-25,#2075,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-26,#2076,Polera oversize negra,Poleras,actual,WhatsApp,1,89,0.0,89.0
+2026-10-26,#2077,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-26,#2078,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-26,#2079,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-26,#2080,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-26,#2081,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-10-26,#2082,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-26,#2083,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-26,#2084,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-10-26,#2085,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-27,#2086,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-27,#2087,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-27,#2088,Polera estampada gráfica,Poleras,actual,Facebook,1,99,0.0,99.0
+2026-10-27,#2089,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-27,#2090,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-27,#2091,Hoodie colaboración edición limitada,Hoodies,actual,Tienda física,1,349,0.0,349.0
+2026-10-27,#2092,Pantalón cargo beige,Pantalones,actual,WhatsApp,1,169,0.0,169.0
+2026-10-27,#2093,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-10-27,#2094,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-27,#2095,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-27,#2096,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-28,#2097,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-28,#2098,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-28,#2099,Polera oversize negra,Poleras,actual,Tienda física,1,89,0.0,89.0
+2026-10-28,#2100,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-28,#2101,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-28,#2102,Hoodie básico gris,Hoodies,actual,Web,1,189,0.0,189.0
+2026-10-28,#2103,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-28,#2104,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-28,#2105,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-28,#2106,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-28,#2107,Gorra bordada,Accesorios,actual,Tienda física,1,79,0.0,79.0
+2026-10-28,#2108,Medias pack x3,Accesorios,actual,WhatsApp,1,45,0.0,45.0
+2026-10-28,#2109,Medias pack x3,Accesorios,actual,Tienda física,1,45,0.0,45.0
+2026-10-29,#2110,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-29,#2111,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-29,#2112,Polera oversize negra,Poleras,actual,Live,1,89,0.0,89.0
+2026-10-29,#2113,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-29,#2114,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-29,#2115,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-29,#2116,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-10-29,#2117,Gorra bordada,Accesorios,actual,WhatsApp,1,79,0.0,79.0
+2026-10-29,#2118,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0
+2026-10-30,#2119,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-30,#2120,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-30,#2121,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-30,#2122,Polera estampada gráfica,Poleras,actual,Web,1,99,0.0,99.0
+2026-10-30,#2123,Hoodie básico gris,Hoodies,actual,Tienda física,1,189,0.0,189.0
+2026-10-30,#2124,Hoodie colaboración edición limitada,Hoodies,actual,WhatsApp,1,349,0.0,349.0
+2026-10-30,#2125,Pantalón cargo beige,Pantalones,actual,Tienda física,1,169,0.0,169.0
+2026-10-30,#2126,Zapatillas skate blancas,Zapatillas,actual,Web,1,389,0.0,389.0
+2026-10-30,#2127,Zapatillas skate blancas,Zapatillas,actual,Instagram,1,389,0.0,389.0
+2026-10-30,#2128,Gorra bordada,Accesorios,actual,Web,1,79,0.0,79.0
+2026-10-31,#2129,Polera oversize negra,Poleras,actual,Web,1,89,0.0,89.0
+2026-10-31,#2130,Polera oversize negra,Poleras,actual,Instagram,1,89,0.0,89.0
+2026-10-31,#2131,Polera estampada gráfica,Poleras,actual,Instagram,1,99,0.0,99.0
+2026-10-31,#2132,Polera estampada gráfica,Poleras,actual,Tienda física,1,99,0.0,99.0
+2026-10-31,#2133,Hoodie básico gris,Hoodies,actual,Instagram,1,189,0.0,189.0
+2026-10-31,#2134,Hoodie colaboración edición limitada,Hoodies,actual,Web,1,349,0.0,349.0
+2026-10-31,#2135,Hoodie colaboración edición limitada,Hoodies,actual,Instagram,1,349,0.0,349.0
+2026-10-31,#2136,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-31,#2137,Pantalón cargo beige,Pantalones,actual,Web,1,169,0.0,169.0
+2026-10-31,#2138,Zapatillas skate blancas,Zapatillas,actual,Facebook,1,389,0.0,389.0
+2026-10-31,#2139,Zapatillas skate blancas,Zapatillas,actual,Tienda física,1,389,0.0,389.0
+2026-10-31,#2140,Gorra bordada,Accesorios,actual,Live,1,79,0.0,79.0
+2026-10-31,#2141,Medias pack x3,Accesorios,actual,Instagram,1,45,0.0,45.0

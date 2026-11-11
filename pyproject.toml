@@ -1,0 +1,15 @@
+[project]
+name = "estratega-mype"
+version = "0.1.0"
+description = "El analista de marketing que una MYPE no puede contratar: cruza ventas, contenido y tendencias para decidir qué vender, qué promocionar y qué publicar."
+readme = "README.md"
+authors = [
+    { name = "Jhanela Luz Carhuaz Fuster", email = "a20205860@pucp.edu.pe" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.8.0",
+    "pandas>=3.1.1",
+    "python-dotenv>=1.2.4",
+    "streamlit>=1.67.0",
+]
