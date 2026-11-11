@@ -173,11 +173,19 @@ if faltantes:
         icon=":material/hourglass_top:",
     )
 
-pestana_ventas, pestana_contenido, pestana_modelo, pestana_tendencias, pestana_plan = st.tabs(
+(
+    pestana_ventas,
+    pestana_contenido,
+    pestana_modelo,
+    pestana_cliente,
+    pestana_tendencias,
+    pestana_plan,
+) = st.tabs(
     [
         ":material/payments: Ventas",
         ":material/movie: Contenido que vende",
         ":material/query_stats: Qué mueve tus ventas",
+        ":material/groups: Tu cliente objetivo",
         ":material/trending_up: Tendencias y competencia",
         ":material/event_note: Plan de la semana",
     ]
@@ -349,7 +357,113 @@ with pestana_modelo:
         )
 
 # ---------------------------------------------------------------------------
-# 4. Tendencias y competencia (Claude con búsqueda web)
+# 4. Tu cliente objetivo (ENAHO 2025 del INEI: datos reales y públicos)
+# ---------------------------------------------------------------------------
+with pestana_cliente:
+    st.markdown(
+        "¿Qué hogares gastan más en ropa y calzado? Lo responde la **Encuesta Nacional de Hogares "
+        "(ENAHO) 2025 del INEI**, con datos reales de miles de hogares de todo el país."
+    )
+    enaho = pd.read_csv(CARPETA_DATOS / "enaho_vestido_2025.csv")
+    por_nivel = enaho[enaho["tabla"] == "Lima Metropolitana por nivel socioeconómico"]
+    por_hogar = enaho[enaho["tabla"] == "Lima Metropolitana por tipo de hogar"]
+    por_region = enaho[enaho["tabla"] == "Perú por región"]
+
+    con_joven = por_hogar[por_hogar["segmento"].str.startswith("Con")].iloc[0]
+    sin_joven = por_hogar[por_hogar["segmento"].str.startswith("Sin")].iloc[0]
+    diferencia = 100 * (con_joven["gasto_ropa_mes"] / sin_joven["gasto_ropa_mes"] - 1)
+
+    st.success(
+        f"En Lima, los hogares **con hombres de 18 a 34 años** gastan **S/ {con_joven['gasto_ropa_mes']:.0f} "
+        f"al mes** en ropa y calzado, **{diferencia:.0f}% más** que los hogares sin ellos "
+        f"(S/ {sin_joven['gasto_ropa_mes']:.0f}). Son {con_joven['hogares']:,.0f} hogares: ese es tu mercado.",
+        title="Tu cliente está en hogares con hombres jóvenes",
+        icon=":material/target:",
+    )
+
+    columna_izquierda, columna_derecha = st.columns(2)
+    with columna_izquierda:
+        with st.container(border=True):
+            st.subheader("Lima: gasto en ropa por nivel socioeconómico")
+            st.caption("Soles al mes por hogar.")
+            st.bar_chart(
+                por_nivel,
+                x="segmento",
+                y="gasto_ropa_mes",
+                sort=False,
+                x_label="Nivel socioeconómico",
+                y_label="Soles al mes",
+                alt="Gasto mensual en ropa por nivel socioeconómico en Lima",
+            )
+    with columna_derecha:
+        with st.container(border=True):
+            st.subheader("Perú: gasto en ropa por región")
+            st.caption("Soles al mes por hogar. Útil si vendes con envíos a provincia.")
+            st.bar_chart(
+                por_region,
+                x="segmento",
+                y="gasto_ropa_mes",
+                horizontal=True,
+                sort="-gasto_ropa_mes",
+                x_label="Soles al mes",
+                y_label="",
+                alt="Gasto mensual en ropa por región del Perú",
+            )
+
+    censo = pd.read_csv(CARPETA_DATOS / "censo2025_lima_callao.csv", dtype={"ubigeo": str})
+    with st.container(border=True):
+        st.subheader("¿Dónde viven? Hombres de 18 a 34 años por distrito")
+        st.caption("Lima Metropolitana y Callao, Censo 2025 (INEI). Los 15 distritos con más hombres jóvenes.")
+        st.bar_chart(
+            censo.head(15),
+            x="distrito",
+            y="hombres_18_34",
+            horizontal=True,
+            sort="-hombres_18_34",
+            x_label="Hombres de 18 a 34 años",
+            y_label="",
+            alt="Distritos de Lima y Callao con más hombres de 18 a 34 años",
+        )
+        with st.expander("Ver los 50 distritos"):
+            st.dataframe(
+                censo.rename(
+                    columns={
+                        "ubigeo": "Ubigeo",
+                        "distrito": "Distrito",
+                        "poblacion": "Población",
+                        "hombres_18_34": "Hombres 18-34",
+                        "mujeres_18_34": "Mujeres 18-34",
+                        "porcentaje_hombres_18_34": "% hombres 18-34",
+                    }
+                ),
+                hide_index=True,
+                alt="Población joven por distrito de Lima y Callao",
+            )
+
+    with st.expander("Ver la tabla completa de la ENAHO"):
+        st.dataframe(
+            enaho.rename(
+                columns={
+                    "tabla": "Tabla",
+                    "segmento": "Segmento",
+                    "gasto_ropa_mes": "Gasto en ropa (S/ al mes)",
+                    "porcentaje_del_gasto": "% del gasto del hogar",
+                    "hogares": "Hogares",
+                    "hogares_en_muestra": "Hogares en la muestra",
+                }
+            ),
+            hide_index=True,
+            alt="Gasto en vestido y calzado según la ENAHO 2025",
+        )
+
+    st.caption(
+        "Fuentes: INEI, ENAHO 2025 (módulos 34 y 02), promedios ponderados con el factor de expansión; e INEI, "
+        "Censos Nacionales 2025, consultado en REDATAM con el servidor MCP del proyecto (mcp/censo2025.py). "
+        "La ENAHO no es representativa por distrito; por eso los distritos salen del censo."
+    )
+
+# ---------------------------------------------------------------------------
+# 5. Tendencias y competencia (Claude con búsqueda web)
 # ---------------------------------------------------------------------------
 with pestana_tendencias:
     st.markdown(
@@ -387,7 +501,7 @@ with pestana_tendencias:
             st.markdown(ARCHIVO_EJEMPLO_TENDENCIAS.read_text(encoding="utf-8"))
 
 # ---------------------------------------------------------------------------
-# 5. Plan de la semana
+# 6. Plan de la semana
 # ---------------------------------------------------------------------------
 with pestana_plan:
     if efectos is None or faltantes:
