@@ -15,9 +15,9 @@ DIAS_SEMANA = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", 
 
 def leer_ventas(archivo) -> pd.DataFrame:
     ventas = pd.read_csv(archivo, parse_dates=["fecha"])
-    # dayofweek da 0 para lunes, 1 para martes... y lo traducimos al nombre.
+    # day_of_week da 0 para lunes, 1 para martes... y lo traducimos al nombre.
     numero_a_nombre = dict(enumerate(DIAS_SEMANA))
-    ventas["dia_semana"] = ventas["fecha"].dt.dayofweek.map(numero_a_nombre)
+    ventas["dia_semana"] = ventas["fecha"].dt.day_of_week.map(numero_a_nombre)
     return ventas
 
 
