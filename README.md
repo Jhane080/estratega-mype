@@ -25,8 +25,9 @@ Estratega MYPE conecta cada publicación con las ventas que vinieron después:
 1. **Ventas:** qué se vende más, por qué canal y cómo evolucionan semana a semana.
 2. **Contenido que vende:** para cada post, cuántas unidades extra vendió ese producto en los 4 días siguientes. Así se ve qué formato (reel, live, carrusel, foto) y qué red traen ventas de verdad, no solo likes.
 3. **Qué mueve tus ventas (modelo estadístico):** una regresión explica las ventas diarias de cada producto con todo a la vez: el contenido, el día de la semana, la quincena, los descuentos, las promociones de la competencia y un **calendario de eventos externos reales** (feriados, Cyber Wow, Black Friday, elecciones 2026, paros, crisis política, El Niño costero). Así separa efectos: "¿se vendió más por el reel o porque era quincena?".
-4. **Tendencias y competencia:** Claude busca en internet qué se mueve en redes para el rubro en el Perú y qué tiendas online compiten, con fuentes. Sin clave de API, la app muestra un ejemplo guardado, marcado como tal.
-5. **Plan de la semana:** qué productos impulsar, qué promociones hacer (por ejemplo, liquidar temporadas pasadas o preparar Black Friday) y un calendario de 5 publicaciones. Tiene dos versiones: **con reglas** (gratis, sale de los resultados del modelo) y **con Claude** (más fina, necesita clave de API).
+4. **Tu cliente objetivo:** con datos reales del INEI. La **ENAHO 2025** muestra quién gasta más en ropa (en Lima, los hogares con hombres de 18 a 34 años gastan S/ 70 al mes, 28% más que los demás), y el **Censo 2025** muestra en qué distritos viven (San Juan de Lurigancho, San Martín de Porres, Ate, Comas...).
+5. **Tendencias y competencia:** Claude busca en internet qué se mueve en redes para el rubro en el Perú y qué tiendas online compiten, con fuentes. Sin clave de API, la app muestra un ejemplo guardado, marcado como tal.
+6. **Plan de la semana:** qué productos impulsar, qué promociones hacer (por ejemplo, liquidar temporadas pasadas o preparar Black Friday) y un calendario de 5 publicaciones. Tiene dos versiones: **con reglas** (gratis, sale de los resultados del modelo) y **con Claude** (más fina, necesita clave de API).
 
 **Insight:** las MYPES miden su contenido en likes, pero los likes no pagan. Lo que importa es qué post vino antes de una venta, y esos datos ya existen (Shopify y las redes), solo que nadie los cruza.
 
@@ -67,6 +68,10 @@ uv run python scripts/generar_datos.py
 | `datos/competencia_ejemplo.csv` | Días en que un competidor lanzó promoción | Inventado |
 | `datos/calendario_eventos.csv` | Feriados, Cyber Wow, Black Friday, elecciones 2026, paros, vacancia presidencial, El Niño costero | **Real**, cada evento con su fuente |
 | `datos/ejemplo_tendencias.md` | Tendencias y competencia online | **Real**, búsqueda web con Claude del 11/11/2026, con fuentes |
+| `datos/enaho_vestido_2025.csv` | Gasto mensual en vestido y calzado por nivel socioeconómico, tipo de hogar y región | **Real**: INEI, ENAHO 2025, ponderado. Se arma con `scripts/preparar_enaho.py` |
+| `datos/censo2025_lima_callao.csv` | Población y hombres y mujeres de 18 a 34 años en los 50 distritos de Lima y Callao | **Real**: INEI, Censo 2025 (REDATAM). Se arma con `scripts/preparar_censo2025.py` |
+
+**Servidor MCP del Censo 2025:** el INEI no tiene API del censo. [`mcp/censo2025.py`](mcp/censo2025.py) manda programas REDATAM al «Procesador Estadístico En-línea» del INEI y devuelve la tabla, para que Claude Code pueda consultar el censo con dos herramientas (`variables_censo2025` y `consultar_censo2025`). Está adaptado del servidor del Censo 2017 de mi proyecto `agente-datos-peru`. Se conecta solo con `.mcp.json`; para usarlo a mano: `uv run --group mcp mcp/censo2025.py`. Ojo: en esta base del censo, Lima Metropolitana tiene código 27, no 15.
 
 Las ventas inventadas esconden patrones a propósito (los lives y reels venden más, la quincena sube las ventas, los paros las bajan), y el modelo los encuentra por su cuenta. No hay datos personales de nadie. Puedes subir tus propios CSV con las mismas columnas.
 
@@ -110,11 +115,13 @@ flowchart LR
 | Modelos de IA: salidas estructuradas (el plan sale en un formato fijo) | [`ia.py`](ia.py), función `armar_plan` |
 | Visualización y dashboard en Streamlit (sesión 05) | [`app.py`](app.py) |
 | Modelo estadístico: regresión con statsmodels | [`modelo.py`](modelo.py) |
+| Servidor MCP propio para el Censo 2025 en REDATAM (sesión 04) | [`mcp/censo2025.py`](mcp/censo2025.py) |
+| Microdatos del INEI: ENAHO 2025 ponderada | [`scripts/preparar_enaho.py`](scripts/preparar_enaho.py) |
 | Análisis de datos con pandas | [`analisis.py`](analisis.py) |
 
 ## 8. Qué generó Claude Code
 
-Claude Code escribió la primera versión del código (`app.py`, `analisis.py`, `modelo.py`, `plan_reglas.py`, `ia.py` y `scripts/generar_datos.py`) a partir de mis instrucciones y de las entrevistas. También buscó en internet las fechas reales del calendario de eventos y el ejemplo guardado de tendencias y competencia (`datos/ejemplo_tendencias.md`), y ordenó mis notas de las entrevistas.
+Claude Code escribió la primera versión del código (`app.py`, `analisis.py`, `modelo.py`, `plan_reglas.py`, `ia.py` y `scripts/generar_datos.py`) a partir de mis instrucciones y de las entrevistas. También adaptó al Censo 2025 mi servidor MCP de REDATAM del Censo 2017 (`mcp/censo2025.py`), escribió los scripts que resumen la ENAHO 2025 y el censo, buscó en internet las fechas reales del calendario de eventos y el ejemplo guardado de tendencias y competencia (`datos/ejemplo_tendencias.md`), y ordenó mis notas de las entrevistas.
 
 Yo definí el problema, el usuario, el enfoque en contenido, la regla de "avisar cuando faltan datos", la idea de usar un modelo estadístico con la competencia y los eventos externos (elecciones, El Niño, crisis política) como variables, y que el calendario de eventos sirva para todos los clientes. Revisé el código y puedo explicar cada parte.
 
