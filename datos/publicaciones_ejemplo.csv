@@ -1,55 +1,401 @@
 fecha,red,formato,producto,alcance,interacciones
-2026-08-01,TikTok,Live,Gorra bordada,3757,153
-2026-08-02,Facebook,Live,Casaca rompevientos temporada pasada,2905,182
-2026-08-03,Facebook,Carrusel,Zapatillas skate blancas,2252,143
-2026-08-04,Instagram,Live,Hoodie básico gris,3217,136
-2026-08-06,Facebook,Carrusel,Polera oversize negra,2873,248
-2026-08-07,Facebook,Live,Hoodie básico gris,4710,166
-2026-08-08,Facebook,Foto,Polera estampada gráfica,1476,130
-2026-08-09,Instagram,Carrusel,Hoodie colaboración edición limitada,1898,141
-2026-08-10,Instagram,Live,Hoodie colaboración edición limitada,5990,392
-2026-08-12,Instagram,Foto,Hoodie colaboración edición limitada,1930,145
-2026-08-13,TikTok,Live,Gorra bordada,3965,184
-2026-08-15,TikTok,Live,Zapatillas retro edición pasada,4071,136
-2026-08-16,Instagram,Reel,Polera estampada gráfica,1758,122
-2026-08-17,Instagram,Historia,Medias pack x3,2307,206
-2026-08-20,Instagram,Live,Hoodie colaboración edición limitada,3393,116
-2026-08-21,TikTok,Reel,Hoodie colaboración edición limitada,4080,293
-2026-08-23,Instagram,Foto,Zapatillas skate blancas,1747,74
-2026-08-24,Instagram,Historia,Casaca rompevientos temporada pasada,1580,94
-2026-08-26,Instagram,Reel,Zapatillas skate blancas,2658,165
-2026-08-27,Facebook,Carrusel,Medias pack x3,2098,116
-2026-08-28,Facebook,Live,Pantalón cargo beige,4265,306
-2026-08-30,Instagram,Carrusel,Polera oversize negra,1950,95
-2026-09-02,Facebook,Carrusel,Pantalón cargo beige,2136,129
-2026-09-03,TikTok,Reel,Medias pack x3,4168,250
-2026-09-05,Instagram,Reel,Polera oversize negra,1392,117
-2026-09-06,Facebook,Live,Polera oversize negra,4030,300
-2026-09-09,WhatsApp,Historia,Hoodie colaboración edición limitada,1966,122
-2026-09-10,Facebook,Live,Zapatillas skate blancas,4918,345
-2026-09-12,Instagram,Historia,Casaca rompevientos temporada pasada,1551,135
-2026-09-13,Facebook,Foto,Polera estampada gráfica,1472,90
-2026-09-16,TikTok,Reel,Zapatillas skate blancas,3186,256
-2026-09-17,Instagram,Live,Casaca rompevientos temporada pasada,3065,95
-2026-09-18,Instagram,Live,Zapatillas skate blancas,3800,334
-2026-09-19,Instagram,Historia,Zapatillas retro edición pasada,1207,90
-2026-09-25,Facebook,Live,Casaca rompevientos temporada pasada,3661,327
-2026-09-26,Instagram,Historia,Zapatillas retro edición pasada,1560,52
-2026-09-29,Instagram,Carrusel,Polera estampada gráfica,2469,203
-2026-09-30,Facebook,Carrusel,Casaca rompevientos temporada pasada,2717,83
-2026-10-01,Facebook,Live,Medias pack x3,5071,272
-2026-10-03,Facebook,Live,Zapatillas retro edición pasada,5239,287
-2026-10-06,Facebook,Foto,Pantalón cargo beige,772,23
-2026-10-08,Instagram,Historia,Gorra bordada,1872,150
-2026-10-10,Facebook,Live,Medias pack x3,4251,132
-2026-10-11,Facebook,Carrusel,Casaca rompevientos temporada pasada,1483,48
-2026-10-15,Instagram,Reel,Gorra bordada,2206,108
-2026-10-16,Instagram,Foto,Medias pack x3,2260,147
-2026-10-17,Instagram,Foto,Hoodie básico gris,1313,65
-2026-10-18,Instagram,Live,Medias pack x3,3358,260
-2026-10-20,WhatsApp,Historia,Polera estampada gráfica,1517,54
-2026-10-23,Instagram,Historia,Zapatillas skate blancas,1746,103
-2026-10-24,WhatsApp,Historia,Hoodie colaboración edición limitada,1636,130
-2026-10-25,Facebook,Carrusel,Hoodie básico gris,2143,83
-2026-10-29,Instagram,Reel,Zapatillas skate blancas,2378,156
-2026-10-30,Facebook,Live,Hoodie colaboración edición limitada,4367,328
+2024-11-09,TikTok,Live,Hoodie colaboración edición limitada,4521,353
+2024-11-10,WhatsApp,Historia,Pantalón cargo beige,2004,77
+2024-11-11,WhatsApp,Historia,Pantalón cargo beige,1992,88
+2024-11-13,Facebook,Carrusel,Polera oversize negra,2784,221
+2024-11-14,Facebook,Carrusel,Polera oversize negra,1750,89
+2024-11-15,Facebook,Carrusel,Hoodie básico gris,2049,145
+2024-11-16,Facebook,Carrusel,Hoodie colaboración edición limitada,901,79
+2024-11-17,WhatsApp,Historia,Zapatillas retro edición pasada,1747,75
+2024-11-19,Instagram,Carrusel,Zapatillas retro edición pasada,2589,165
+2024-11-21,Instagram,Live,Hoodie básico gris,4464,394
+2024-11-23,Facebook,Live,Gorra bordada,2374,139
+2024-11-27,Instagram,Carrusel,Casaca rompevientos temporada pasada,3638,209
+2024-11-28,Facebook,Foto,Hoodie colaboración edición limitada,1828,113
+2024-12-01,Facebook,Foto,Zapatillas skate blancas,1309,41
+2024-12-02,Instagram,Historia,Hoodie básico gris,1329,103
+2024-12-04,TikTok,Live,Pantalón cargo beige,3008,117
+2024-12-05,Instagram,Foto,Hoodie básico gris,1743,105
+2024-12-06,Instagram,Live,Gorra bordada,4275,216
+2024-12-08,Instagram,Reel,Polera estampada gráfica,3641,320
+2024-12-09,TikTok,Live,Hoodie colaboración edición limitada,2578,203
+2024-12-10,Facebook,Carrusel,Hoodie colaboración edición limitada,2185,190
+2024-12-11,Instagram,Historia,Zapatillas skate blancas,1931,132
+2024-12-16,Facebook,Foto,Zapatillas retro edición pasada,1559,136
+2024-12-17,TikTok,Reel,Polera estampada gráfica,2921,246
+2024-12-19,Instagram,Historia,Casaca rompevientos temporada pasada,1482,90
+2024-12-22,Facebook,Live,Zapatillas retro edición pasada,3950,227
+2024-12-23,Instagram,Reel,Pantalón cargo beige,2113,98
+2024-12-24,Instagram,Reel,Casaca rompevientos temporada pasada,2540,151
+2024-12-26,TikTok,Reel,Casaca rompevientos temporada pasada,3996,316
+2024-12-27,Instagram,Historia,Polera estampada gráfica,2148,128
+2024-12-29,Instagram,Live,Casaca rompevientos temporada pasada,3694,265
+2024-12-30,Instagram,Live,Hoodie básico gris,3584,143
+2024-12-31,Facebook,Live,Zapatillas retro edición pasada,3752,198
+2025-01-02,Facebook,Carrusel,Zapatillas skate blancas,719,33
+2025-01-03,Instagram,Reel,Casaca rompevientos temporada pasada,2665,107
+2025-01-05,WhatsApp,Historia,Zapatillas skate blancas,1247,69
+2025-01-07,TikTok,Reel,Hoodie colaboración edición limitada,3645,296
+2025-01-09,Instagram,Live,Zapatillas retro edición pasada,3725,330
+2025-01-12,Facebook,Carrusel,Medias pack x3,1212,90
+2025-01-13,WhatsApp,Historia,Polera estampada gráfica,1903,138
+2025-01-15,TikTok,Live,Zapatillas skate blancas,4329,156
+2025-01-16,Facebook,Carrusel,Medias pack x3,2446,90
+2025-01-17,Instagram,Foto,Pantalón cargo beige,1830,79
+2025-01-18,TikTok,Reel,Zapatillas skate blancas,3041,228
+2025-01-20,Facebook,Foto,Hoodie básico gris,1455,82
+2025-01-21,TikTok,Reel,Polera oversize negra,2166,121
+2025-01-27,Instagram,Historia,Pantalón cargo beige,2015,74
+2025-01-28,Facebook,Live,Zapatillas skate blancas,4040,342
+2025-01-31,Instagram,Reel,Polera estampada gráfica,1777,93
+2025-02-01,WhatsApp,Historia,Pantalón cargo beige,1628,138
+2025-02-02,Instagram,Historia,Polera estampada gráfica,1243,55
+2025-02-05,Instagram,Carrusel,Gorra bordada,2342,80
+2025-02-06,Instagram,Live,Zapatillas skate blancas,5171,428
+2025-02-08,TikTok,Reel,Casaca rompevientos temporada pasada,1779,127
+2025-02-09,Instagram,Foto,Hoodie colaboración edición limitada,793,35
+2025-02-11,Instagram,Carrusel,Zapatillas skate blancas,1583,139
+2025-02-13,TikTok,Reel,Medias pack x3,4359,214
+2025-02-14,Facebook,Live,Gorra bordada,3942,284
+2025-02-15,Instagram,Reel,Hoodie básico gris,3569,231
+2025-02-16,Instagram,Reel,Zapatillas skate blancas,2636,210
+2025-02-24,Instagram,Reel,Polera estampada gráfica,2382,103
+2025-02-26,TikTok,Live,Casaca rompevientos temporada pasada,5229,465
+2025-03-03,TikTok,Live,Zapatillas skate blancas,3425,297
+2025-03-04,Facebook,Foto,Medias pack x3,458,22
+2025-03-05,Facebook,Live,Casaca rompevientos temporada pasada,6665,593
+2025-03-06,Instagram,Foto,Casaca rompevientos temporada pasada,2101,81
+2025-03-07,Instagram,Reel,Zapatillas skate blancas,3305,203
+2025-03-08,Instagram,Carrusel,Polera oversize negra,2787,222
+2025-03-09,WhatsApp,Historia,Zapatillas skate blancas,1136,49
+2025-03-11,Instagram,Reel,Zapatillas retro edición pasada,3712,269
+2025-03-14,Facebook,Foto,Casaca rompevientos temporada pasada,1050,39
+2025-03-15,WhatsApp,Historia,Hoodie básico gris,656,57
+2025-03-16,Instagram,Live,Hoodie básico gris,4250,313
+2025-03-19,WhatsApp,Historia,Hoodie básico gris,2063,179
+2025-03-21,Instagram,Carrusel,Hoodie colaboración edición limitada,1948,126
+2025-03-22,Facebook,Live,Zapatillas retro edición pasada,4131,273
+2025-03-23,Instagram,Reel,Polera oversize negra,2301,188
+2025-03-27,Facebook,Carrusel,Zapatillas retro edición pasada,1105,33
+2025-03-30,Facebook,Carrusel,Polera estampada gráfica,1338,109
+2025-04-02,Instagram,Historia,Zapatillas skate blancas,1255,79
+2025-04-03,Instagram,Historia,Hoodie colaboración edición limitada,1700,72
+2025-04-09,Instagram,Live,Polera estampada gráfica,3421,134
+2025-04-10,WhatsApp,Historia,Pantalón cargo beige,1262,82
+2025-04-12,Facebook,Foto,Hoodie básico gris,1467,45
+2025-04-16,Instagram,Carrusel,Zapatillas skate blancas,1863,102
+2025-04-17,Instagram,Historia,Zapatillas retro edición pasada,2275,173
+2025-04-18,Facebook,Foto,Polera estampada gráfica,2016,125
+2025-04-21,Instagram,Live,Medias pack x3,3371,238
+2025-04-22,TikTok,Reel,Polera oversize negra,3013,171
+2025-04-24,Instagram,Reel,Medias pack x3,4033,176
+2025-04-25,Facebook,Carrusel,Zapatillas retro edición pasada,1997,133
+2025-04-28,Instagram,Foto,Hoodie colaboración edición limitada,2022,130
+2025-04-29,Instagram,Carrusel,Polera oversize negra,2163,173
+2025-04-30,TikTok,Reel,Pantalón cargo beige,1810,103
+2025-05-04,WhatsApp,Historia,Hoodie básico gris,2410,92
+2025-05-06,Instagram,Historia,Hoodie básico gris,2049,90
+2025-05-08,TikTok,Reel,Zapatillas skate blancas,3085,178
+2025-05-09,Facebook,Foto,Pantalón cargo beige,1671,135
+2025-05-10,Instagram,Carrusel,Hoodie colaboración edición limitada,2183,157
+2025-05-11,Instagram,Reel,Hoodie colaboración edición limitada,3116,104
+2025-05-16,Facebook,Foto,Polera oversize negra,979,51
+2025-05-20,Facebook,Live,Polera estampada gráfica,2974,245
+2025-05-22,Instagram,Historia,Zapatillas skate blancas,1141,50
+2025-05-23,Instagram,Live,Casaca rompevientos temporada pasada,3872,170
+2025-05-28,Facebook,Carrusel,Pantalón cargo beige,2035,178
+2025-05-29,Instagram,Carrusel,Zapatillas retro edición pasada,2430,166
+2025-05-30,Instagram,Live,Gorra bordada,2831,143
+2025-05-31,Instagram,Foto,Gorra bordada,1978,163
+2025-06-02,Instagram,Carrusel,Casaca rompevientos temporada pasada,1835,144
+2025-06-03,Facebook,Foto,Pantalón cargo beige,1582,122
+2025-06-05,Instagram,Carrusel,Zapatillas skate blancas,2431,203
+2025-06-06,Instagram,Reel,Pantalón cargo beige,2240,201
+2025-06-07,Facebook,Foto,Polera oversize negra,1527,102
+2025-06-08,Facebook,Carrusel,Gorra bordada,2685,99
+2025-06-09,Instagram,Foto,Polera estampada gráfica,1253,100
+2025-06-10,Facebook,Foto,Hoodie básico gris,1100,89
+2025-06-11,TikTok,Reel,Zapatillas retro edición pasada,2840,185
+2025-06-12,TikTok,Reel,Zapatillas retro edición pasada,2018,162
+2025-06-13,Instagram,Foto,Zapatillas retro edición pasada,1722,65
+2025-06-14,Facebook,Carrusel,Zapatillas retro edición pasada,2202,73
+2025-06-15,Facebook,Live,Gorra bordada,4691,345
+2025-06-17,Instagram,Reel,Zapatillas retro edición pasada,3030,183
+2025-06-21,Facebook,Foto,Hoodie colaboración edición limitada,944,60
+2025-06-22,WhatsApp,Historia,Zapatillas skate blancas,1754,64
+2025-06-25,Facebook,Live,Zapatillas skate blancas,2328,90
+2025-06-26,Facebook,Carrusel,Medias pack x3,1750,122
+2025-06-27,Instagram,Foto,Gorra bordada,2626,105
+2025-06-28,Instagram,Historia,Polera oversize negra,1998,128
+2025-06-29,Facebook,Carrusel,Hoodie colaboración edición limitada,1583,110
+2025-06-30,Facebook,Carrusel,Zapatillas retro edición pasada,2638,185
+2025-07-03,Facebook,Carrusel,Pantalón cargo beige,1835,60
+2025-07-04,Instagram,Reel,Polera estampada gráfica,3326,279
+2025-07-06,Instagram,Carrusel,Zapatillas skate blancas,2405,216
+2025-07-10,Instagram,Foto,Hoodie básico gris,1407,64
+2025-07-14,Instagram,Foto,Casaca rompevientos temporada pasada,2204,136
+2025-07-21,TikTok,Reel,Polera estampada gráfica,3437,201
+2025-07-23,Instagram,Foto,Polera oversize negra,1628,140
+2025-07-25,Instagram,Historia,Polera oversize negra,1948,144
+2025-07-26,Instagram,Foto,Polera estampada gráfica,1934,119
+2025-07-28,WhatsApp,Historia,Polera oversize negra,1995,66
+2025-07-29,Facebook,Foto,Gorra bordada,1594,77
+2025-07-30,TikTok,Live,Zapatillas retro edición pasada,3599,163
+2025-08-03,TikTok,Reel,Casaca rompevientos temporada pasada,3172,125
+2025-08-04,Instagram,Live,Medias pack x3,3609,169
+2025-08-07,Instagram,Live,Polera estampada gráfica,3865,279
+2025-08-11,Facebook,Carrusel,Hoodie básico gris,2870,237
+2025-08-12,TikTok,Reel,Gorra bordada,1661,132
+2025-08-13,TikTok,Live,Gorra bordada,3723,112
+2025-08-14,Instagram,Carrusel,Pantalón cargo beige,1467,101
+2025-08-16,Instagram,Foto,Casaca rompevientos temporada pasada,1584,78
+2025-08-17,TikTok,Reel,Zapatillas skate blancas,2916,250
+2025-08-19,Instagram,Historia,Gorra bordada,1767,123
+2025-08-21,Instagram,Historia,Pantalón cargo beige,1438,87
+2025-08-22,Facebook,Carrusel,Polera oversize negra,2138,91
+2025-08-23,Instagram,Foto,Casaca rompevientos temporada pasada,1179,67
+2025-08-27,TikTok,Live,Hoodie básico gris,4077,126
+2025-08-29,TikTok,Reel,Polera estampada gráfica,2132,70
+2025-08-30,Instagram,Historia,Gorra bordada,1775,125
+2025-09-01,Instagram,Carrusel,Hoodie básico gris,1597,52
+2025-09-03,Facebook,Foto,Polera oversize negra,1448,117
+2025-09-04,Instagram,Live,Casaca rompevientos temporada pasada,3636,248
+2025-09-05,TikTok,Reel,Hoodie básico gris,3117,162
+2025-09-10,Facebook,Foto,Zapatillas retro edición pasada,1726,64
+2025-09-13,Instagram,Historia,Zapatillas retro edición pasada,1704,105
+2025-09-14,Facebook,Foto,Zapatillas retro edición pasada,1623,111
+2025-09-15,Instagram,Reel,Polera estampada gráfica,2619,179
+2025-09-18,Facebook,Carrusel,Zapatillas retro edición pasada,1649,52
+2025-09-19,Facebook,Carrusel,Zapatillas retro edición pasada,2156,88
+2025-09-20,Instagram,Carrusel,Polera estampada gráfica,1553,124
+2025-09-21,Instagram,Historia,Pantalón cargo beige,2381,113
+2025-09-23,Instagram,Foto,Polera oversize negra,1000,66
+2025-09-24,WhatsApp,Historia,Medias pack x3,2398,171
+2025-09-27,Facebook,Live,Hoodie colaboración edición limitada,4108,166
+2025-09-28,WhatsApp,Historia,Polera oversize negra,1952,148
+2025-09-29,Instagram,Live,Zapatillas skate blancas,4393,190
+2025-09-30,Instagram,Live,Gorra bordada,3286,110
+2025-10-01,Instagram,Reel,Zapatillas retro edición pasada,2148,189
+2025-10-02,Facebook,Carrusel,Polera estampada gráfica,2289,124
+2025-10-05,Instagram,Foto,Pantalón cargo beige,1458,64
+2025-10-07,Facebook,Carrusel,Zapatillas skate blancas,1838,74
+2025-10-08,TikTok,Reel,Gorra bordada,3264,145
+2025-10-11,TikTok,Reel,Hoodie básico gris,5497,426
+2025-10-17,Instagram,Historia,Hoodie básico gris,2182,158
+2025-10-18,Instagram,Carrusel,Pantalón cargo beige,2068,91
+2025-10-21,Facebook,Foto,Zapatillas skate blancas,1367,92
+2025-10-23,Instagram,Reel,Polera oversize negra,4509,210
+2025-10-24,TikTok,Reel,Polera oversize negra,2661,156
+2025-10-25,Instagram,Carrusel,Polera estampada gráfica,1927,144
+2025-10-27,Instagram,Carrusel,Polera estampada gráfica,1996,136
+2025-10-28,Instagram,Historia,Medias pack x3,1579,130
+2025-10-31,Facebook,Carrusel,Casaca rompevientos temporada pasada,1546,122
+2025-11-01,Facebook,Live,Zapatillas skate blancas,2358,92
+2025-11-02,TikTok,Reel,Hoodie colaboración edición limitada,4114,148
+2025-11-07,Instagram,Reel,Polera estampada gráfica,3443,110
+2025-11-08,Instagram,Foto,Pantalón cargo beige,1619,107
+2025-11-11,Instagram,Reel,Pantalón cargo beige,1336,79
+2025-11-13,WhatsApp,Historia,Medias pack x3,1698,92
+2025-11-16,TikTok,Live,Hoodie colaboración edición limitada,4388,176
+2025-11-17,Instagram,Reel,Hoodie colaboración edición limitada,1124,58
+2025-11-18,Facebook,Foto,Zapatillas retro edición pasada,1703,97
+2025-11-20,Instagram,Carrusel,Hoodie colaboración edición limitada,1866,77
+2025-11-23,WhatsApp,Historia,Gorra bordada,1421,124
+2025-11-24,Instagram,Carrusel,Casaca rompevientos temporada pasada,2040,175
+2025-11-26,TikTok,Live,Zapatillas retro edición pasada,5591,217
+2025-11-28,Instagram,Live,Hoodie colaboración edición limitada,3559,233
+2025-11-30,Instagram,Foto,Polera oversize negra,1378,86
+2025-12-01,Instagram,Carrusel,Medias pack x3,1912,59
+2025-12-03,Facebook,Live,Zapatillas skate blancas,4134,263
+2025-12-05,TikTok,Reel,Polera estampada gráfica,4960,431
+2025-12-08,Facebook,Foto,Polera oversize negra,1509,127
+2025-12-09,Instagram,Reel,Gorra bordada,2972,183
+2025-12-10,Instagram,Foto,Pantalón cargo beige,1523,97
+2025-12-11,Instagram,Foto,Zapatillas retro edición pasada,2264,135
+2025-12-13,Instagram,Foto,Hoodie básico gris,2098,90
+2025-12-14,Facebook,Foto,Casaca rompevientos temporada pasada,1548,91
+2025-12-15,WhatsApp,Historia,Casaca rompevientos temporada pasada,1754,92
+2025-12-19,Instagram,Foto,Medias pack x3,1676,78
+2025-12-21,Facebook,Carrusel,Zapatillas retro edición pasada,1697,110
+2025-12-22,Instagram,Historia,Pantalón cargo beige,1982,121
+2025-12-26,Instagram,Reel,Gorra bordada,2975,112
+2025-12-28,TikTok,Reel,Pantalón cargo beige,3009,165
+2025-12-30,Instagram,Carrusel,Zapatillas skate blancas,2447,212
+2025-12-31,Facebook,Carrusel,Hoodie colaboración edición limitada,1599,60
+2026-01-01,Instagram,Live,Gorra bordada,4127,325
+2026-01-02,Instagram,Live,Hoodie colaboración edición limitada,3985,350
+2026-01-04,Instagram,Historia,Medias pack x3,1106,50
+2026-01-05,Instagram,Reel,Medias pack x3,2750,223
+2026-01-06,TikTok,Reel,Zapatillas skate blancas,4087,267
+2026-01-07,Instagram,Historia,Polera oversize negra,1782,123
+2026-01-11,Instagram,Carrusel,Polera estampada gráfica,2238,115
+2026-01-13,Facebook,Foto,Gorra bordada,1366,52
+2026-01-15,Facebook,Carrusel,Casaca rompevientos temporada pasada,2169,146
+2026-01-17,TikTok,Reel,Zapatillas skate blancas,3117,111
+2026-01-18,Instagram,Reel,Zapatillas skate blancas,4168,242
+2026-01-19,TikTok,Live,Pantalón cargo beige,2662,84
+2026-01-20,Instagram,Foto,Hoodie básico gris,1875,74
+2026-01-21,TikTok,Reel,Zapatillas retro edición pasada,3290,173
+2026-01-23,Instagram,Reel,Casaca rompevientos temporada pasada,4846,354
+2026-01-25,Instagram,Carrusel,Hoodie colaboración edición limitada,1842,66
+2026-01-26,Facebook,Carrusel,Medias pack x3,1811,92
+2026-01-28,Instagram,Carrusel,Medias pack x3,1141,80
+2026-01-30,Instagram,Historia,Polera oversize negra,2730,183
+2026-01-31,Instagram,Reel,Casaca rompevientos temporada pasada,2853,93
+2026-02-01,Facebook,Carrusel,Hoodie colaboración edición limitada,1942,95
+2026-02-03,Facebook,Live,Zapatillas retro edición pasada,3616,276
+2026-02-04,Instagram,Carrusel,Hoodie colaboración edición limitada,2100,122
+2026-02-05,Instagram,Reel,Zapatillas retro edición pasada,2429,213
+2026-02-06,TikTok,Reel,Gorra bordada,2792,244
+2026-02-07,Instagram,Historia,Gorra bordada,2239,155
+2026-02-08,WhatsApp,Historia,Hoodie básico gris,1525,57
+2026-02-10,Instagram,Foto,Polera estampada gráfica,1529,74
+2026-02-12,Instagram,Carrusel,Gorra bordada,1580,55
+2026-02-13,TikTok,Live,Polera estampada gráfica,5685,301
+2026-02-14,Facebook,Carrusel,Hoodie colaboración edición limitada,1971,98
+2026-02-16,Instagram,Carrusel,Medias pack x3,2368,201
+2026-02-17,Facebook,Carrusel,Hoodie colaboración edición limitada,2309,200
+2026-02-19,Instagram,Live,Pantalón cargo beige,4887,251
+2026-02-22,Instagram,Carrusel,Pantalón cargo beige,2526,99
+2026-02-23,Facebook,Carrusel,Pantalón cargo beige,3344,264
+2026-02-24,Facebook,Carrusel,Polera estampada gráfica,1456,107
+2026-02-25,Instagram,Live,Hoodie básico gris,3909,271
+2026-02-26,Facebook,Carrusel,Medias pack x3,1432,114
+2026-03-01,WhatsApp,Historia,Polera oversize negra,1828,95
+2026-03-04,Instagram,Foto,Polera oversize negra,926,64
+2026-03-10,TikTok,Reel,Hoodie básico gris,3175,214
+2026-03-12,Instagram,Historia,Pantalón cargo beige,1070,43
+2026-03-13,WhatsApp,Historia,Casaca rompevientos temporada pasada,2807,175
+2026-03-16,Instagram,Historia,Medias pack x3,1771,57
+2026-03-19,Facebook,Live,Hoodie básico gris,3563,147
+2026-03-21,Facebook,Carrusel,Hoodie básico gris,1528,70
+2026-03-22,Facebook,Live,Zapatillas retro edición pasada,2625,153
+2026-03-23,Facebook,Foto,Hoodie básico gris,1693,74
+2026-03-24,Instagram,Reel,Pantalón cargo beige,2886,228
+2026-03-27,TikTok,Live,Pantalón cargo beige,3164,98
+2026-03-31,Instagram,Foto,Pantalón cargo beige,389,24
+2026-04-01,Instagram,Carrusel,Casaca rompevientos temporada pasada,1689,138
+2026-04-02,Instagram,Carrusel,Zapatillas skate blancas,2167,85
+2026-04-04,Instagram,Live,Hoodie básico gris,3433,204
+2026-04-05,TikTok,Reel,Medias pack x3,3539,235
+2026-04-06,Instagram,Reel,Zapatillas skate blancas,2744,111
+2026-04-08,TikTok,Reel,Pantalón cargo beige,2749,212
+2026-04-12,TikTok,Reel,Polera oversize negra,2073,146
+2026-04-16,Facebook,Carrusel,Gorra bordada,1389,87
+2026-04-17,Instagram,Historia,Polera oversize negra,1183,88
+2026-04-19,WhatsApp,Historia,Zapatillas skate blancas,1305,85
+2026-04-20,Instagram,Reel,Zapatillas skate blancas,2817,221
+2026-04-21,TikTok,Reel,Medias pack x3,3403,299
+2026-04-24,Facebook,Live,Polera oversize negra,3527,134
+2026-04-27,Facebook,Carrusel,Polera oversize negra,2057,69
+2026-04-29,Instagram,Carrusel,Zapatillas skate blancas,2155,133
+2026-04-30,Instagram,Foto,Casaca rompevientos temporada pasada,1733,116
+2026-05-01,Instagram,Historia,Zapatillas retro edición pasada,1273,86
+2026-05-03,TikTok,Live,Gorra bordada,3205,256
+2026-05-04,TikTok,Reel,Zapatillas skate blancas,2500,200
+2026-05-06,WhatsApp,Historia,Polera estampada gráfica,2184,143
+2026-05-07,Instagram,Foto,Polera oversize negra,2635,79
+2026-05-08,Instagram,Reel,Gorra bordada,2509,122
+2026-05-09,Facebook,Foto,Medias pack x3,1173,73
+2026-05-11,TikTok,Live,Hoodie colaboración edición limitada,3327,183
+2026-05-12,TikTok,Reel,Medias pack x3,4949,200
+2026-05-14,Instagram,Reel,Hoodie colaboración edición limitada,3208,240
+2026-05-15,WhatsApp,Historia,Polera oversize negra,1541,118
+2026-05-16,Instagram,Reel,Casaca rompevientos temporada pasada,3370,114
+2026-05-21,Facebook,Live,Casaca rompevientos temporada pasada,3640,296
+2026-05-25,Instagram,Foto,Hoodie colaboración edición limitada,1679,147
+2026-05-28,Instagram,Historia,Hoodie colaboración edición limitada,1424,118
+2026-05-29,WhatsApp,Historia,Polera oversize negra,1820,125
+2026-05-31,Facebook,Live,Casaca rompevientos temporada pasada,4487,239
+2026-06-01,TikTok,Reel,Hoodie básico gris,2431,150
+2026-06-05,WhatsApp,Historia,Zapatillas retro edición pasada,2120,105
+2026-06-07,Instagram,Historia,Gorra bordada,1979,76
+2026-06-11,Instagram,Live,Casaca rompevientos temporada pasada,2444,198
+2026-06-12,Instagram,Historia,Hoodie básico gris,1377,84
+2026-06-13,Facebook,Carrusel,Pantalón cargo beige,3825,156
+2026-06-14,Instagram,Reel,Polera estampada gráfica,2934,213
+2026-06-16,TikTok,Reel,Casaca rompevientos temporada pasada,2508,156
+2026-06-20,Instagram,Carrusel,Medias pack x3,1374,86
+2026-06-23,Instagram,Live,Pantalón cargo beige,4686,151
+2026-06-24,WhatsApp,Historia,Gorra bordada,935,46
+2026-06-25,Instagram,Reel,Zapatillas retro edición pasada,1508,128
+2026-06-26,Instagram,Reel,Gorra bordada,2925,169
+2026-06-28,Instagram,Reel,Pantalón cargo beige,4119,280
+2026-06-30,Facebook,Foto,Gorra bordada,2130,141
+2026-07-01,WhatsApp,Historia,Polera estampada gráfica,1672,78
+2026-07-04,Instagram,Reel,Hoodie colaboración edición limitada,1155,93
+2026-07-06,Instagram,Foto,Gorra bordada,1338,46
+2026-07-07,WhatsApp,Historia,Polera oversize negra,1576,88
+2026-07-08,TikTok,Reel,Polera oversize negra,2994,228
+2026-07-09,Facebook,Live,Gorra bordada,4239,219
+2026-07-10,Instagram,Carrusel,Hoodie básico gris,2173,65
+2026-07-12,Facebook,Carrusel,Polera estampada gráfica,1301,55
+2026-07-13,WhatsApp,Historia,Casaca rompevientos temporada pasada,337,16
+2026-07-14,WhatsApp,Historia,Gorra bordada,1430,124
+2026-07-15,Instagram,Foto,Polera estampada gráfica,2157,184
+2026-07-21,Facebook,Carrusel,Hoodie básico gris,1940,85
+2026-07-22,Instagram,Foto,Hoodie básico gris,1107,95
+2026-07-24,Instagram,Historia,Medias pack x3,2302,172
+2026-07-26,WhatsApp,Historia,Hoodie colaboración edición limitada,1387,65
+2026-07-27,Instagram,Live,Gorra bordada,4940,328
+2026-07-28,Instagram,Carrusel,Zapatillas retro edición pasada,1534,55
+2026-07-30,Instagram,Historia,Hoodie colaboración edición limitada,1579,103
+2026-08-01,Facebook,Foto,Polera oversize negra,1520,134
+2026-08-02,WhatsApp,Historia,Pantalón cargo beige,1487,96
+2026-08-05,Instagram,Historia,Medias pack x3,1518,115
+2026-08-08,Instagram,Carrusel,Polera estampada gráfica,1871,61
+2026-08-09,TikTok,Live,Polera oversize negra,4735,210
+2026-08-11,Instagram,Historia,Zapatillas retro edición pasada,2111,184
+2026-08-12,Instagram,Reel,Casaca rompevientos temporada pasada,3144,114
+2026-08-13,WhatsApp,Historia,Zapatillas retro edición pasada,1759,65
+2026-08-14,WhatsApp,Historia,Gorra bordada,2324,117
+2026-08-17,TikTok,Reel,Gorra bordada,4391,332
+2026-08-19,Instagram,Historia,Zapatillas skate blancas,1892,141
+2026-08-21,Facebook,Live,Zapatillas skate blancas,4863,312
+2026-08-22,Instagram,Foto,Gorra bordada,1948,121
+2026-08-24,Instagram,Foto,Hoodie colaboración edición limitada,1385,55
+2026-08-26,Facebook,Carrusel,Zapatillas retro edición pasada,2449,128
+2026-08-27,Instagram,Reel,Hoodie colaboración edición limitada,2648,139
+2026-08-30,Instagram,Reel,Zapatillas skate blancas,2723,98
+2026-09-01,TikTok,Reel,Casaca rompevientos temporada pasada,3712,276
+2026-09-03,TikTok,Live,Zapatillas skate blancas,4622,339
+2026-09-04,WhatsApp,Historia,Gorra bordada,1547,71
+2026-09-05,Facebook,Carrusel,Hoodie colaboración edición limitada,1443,95
+2026-09-06,WhatsApp,Historia,Polera oversize negra,2592,173
+2026-09-07,Instagram,Reel,Zapatillas retro edición pasada,3803,229
+2026-09-08,Instagram,Historia,Hoodie colaboración edición limitada,3168,100
+2026-09-09,TikTok,Live,Polera oversize negra,685,48
+2026-09-10,Facebook,Carrusel,Polera oversize negra,1627,99
+2026-09-11,WhatsApp,Historia,Casaca rompevientos temporada pasada,2030,177
+2026-09-12,Instagram,Foto,Medias pack x3,1795,59
+2026-09-13,Instagram,Reel,Hoodie colaboración edición limitada,2963,135
+2026-09-15,Facebook,Carrusel,Pantalón cargo beige,1872,123
+2026-09-16,Facebook,Foto,Hoodie básico gris,1361,105
+2026-09-17,Instagram,Reel,Medias pack x3,2639,120
+2026-09-19,WhatsApp,Historia,Medias pack x3,1992,88
+2026-09-22,Instagram,Carrusel,Gorra bordada,1279,99
+2026-09-23,TikTok,Reel,Medias pack x3,2347,147
+2026-09-24,TikTok,Reel,Medias pack x3,2868,144
+2026-09-25,Instagram,Foto,Gorra bordada,1012,45
+2026-09-27,Instagram,Historia,Gorra bordada,2196,179
+2026-09-28,Instagram,Carrusel,Casaca rompevientos temporada pasada,1962,75
+2026-09-29,Instagram,Reel,Medias pack x3,3710,245
+2026-09-30,Instagram,Reel,Hoodie colaboración edición limitada,3090,249
+2026-10-01,WhatsApp,Historia,Gorra bordada,1658,55
+2026-10-04,Instagram,Carrusel,Polera oversize negra,2072,179
+2026-10-06,Instagram,Historia,Casaca rompevientos temporada pasada,2333,83
+2026-10-09,Instagram,Historia,Polera oversize negra,1461,79
+2026-10-17,Facebook,Live,Casaca rompevientos temporada pasada,5262,303
+2026-10-18,Instagram,Reel,Polera estampada gráfica,3461,288
+2026-10-20,Instagram,Foto,Zapatillas skate blancas,1832,86
+2026-10-21,WhatsApp,Historia,Medias pack x3,1625,136
+2026-10-22,Instagram,Historia,Polera oversize negra,1756,79
+2026-10-23,Instagram,Reel,Zapatillas retro edición pasada,1887,59
+2026-10-24,Facebook,Carrusel,Zapatillas retro edición pasada,2009,87
+2026-10-26,Instagram,Foto,Medias pack x3,1327,98
+2026-10-27,Instagram,Live,Casaca rompevientos temporada pasada,4295,202
+2026-10-31,TikTok,Reel,Hoodie básico gris,4484,209
+2026-11-01,Facebook,Carrusel,Hoodie colaboración edición limitada,1890,89
+2026-11-04,Instagram,Carrusel,Pantalón cargo beige,2503,110
+2026-11-07,Instagram,Foto,Zapatillas retro edición pasada,1523,106
+2026-11-08,Facebook,Live,Polera estampada gráfica,4251,161

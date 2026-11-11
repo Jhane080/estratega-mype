@@ -1,0 +1,545 @@
+fecha,evento,tipo,fuente
+2024-12-08,Inmaculada Concepción,feriado,Feriados nacionales del Perú (gob.pe)
+2024-12-09,Batalla de Ayacucho,feriado,Feriados nacionales del Perú (gob.pe)
+2024-12-25,Navidad,feriado,Feriados nacionales del Perú (gob.pe)
+2025-01-01,Año Nuevo,feriado,Feriados nacionales del Perú (gob.pe)
+2025-04-17,Jueves Santo,feriado,Feriados nacionales del Perú (gob.pe)
+2025-04-18,Viernes Santo,feriado,Feriados nacionales del Perú (gob.pe)
+2025-05-01,Día del Trabajo,feriado,Feriados nacionales del Perú (gob.pe)
+2025-06-07,Batalla de Arica,feriado,Feriados nacionales del Perú (gob.pe)
+2025-06-29,San Pedro y San Pablo,feriado,Feriados nacionales del Perú (gob.pe)
+2025-07-23,Día de la Fuerza Aérea,feriado,Feriados nacionales del Perú (gob.pe)
+2025-07-28,Fiestas Patrias,feriado,Feriados nacionales del Perú (gob.pe)
+2025-07-29,Fiestas Patrias,feriado,Feriados nacionales del Perú (gob.pe)
+2025-08-06,Batalla de Junín,feriado,Feriados nacionales del Perú (gob.pe)
+2025-08-30,Santa Rosa de Lima,feriado,Feriados nacionales del Perú (gob.pe)
+2025-10-08,Combate de Angamos,feriado,Feriados nacionales del Perú (gob.pe)
+2025-11-01,Todos los Santos,feriado,Feriados nacionales del Perú (gob.pe)
+2025-12-08,Inmaculada Concepción,feriado,Feriados nacionales del Perú (gob.pe)
+2025-12-09,Batalla de Ayacucho,feriado,Feriados nacionales del Perú (gob.pe)
+2025-12-25,Navidad,feriado,Feriados nacionales del Perú (gob.pe)
+2026-01-01,Año Nuevo,feriado,Feriados nacionales del Perú (gob.pe)
+2026-04-02,Jueves Santo,feriado,Feriados nacionales del Perú (gob.pe)
+2026-04-03,Viernes Santo,feriado,Feriados nacionales del Perú (gob.pe)
+2026-05-01,Día del Trabajo,feriado,Feriados nacionales del Perú (gob.pe)
+2026-06-07,Batalla de Arica,feriado,Feriados nacionales del Perú (gob.pe)
+2026-06-29,San Pedro y San Pablo,feriado,Feriados nacionales del Perú (gob.pe)
+2026-07-23,Día de la Fuerza Aérea,feriado,Feriados nacionales del Perú (gob.pe)
+2026-07-28,Fiestas Patrias,feriado,Feriados nacionales del Perú (gob.pe)
+2026-07-29,Fiestas Patrias,feriado,Feriados nacionales del Perú (gob.pe)
+2026-08-06,Batalla de Junín,feriado,Feriados nacionales del Perú (gob.pe)
+2026-08-30,Santa Rosa de Lima,feriado,Feriados nacionales del Perú (gob.pe)
+2026-10-08,Combate de Angamos,feriado,Feriados nacionales del Perú (gob.pe)
+2026-11-01,Todos los Santos,feriado,Feriados nacionales del Perú (gob.pe)
+2026-12-08,Inmaculada Concepción,feriado,Feriados nacionales del Perú (gob.pe)
+2026-12-09,Batalla de Ayacucho,feriado,Feriados nacionales del Perú (gob.pe)
+2026-12-25,Navidad,feriado,Feriados nacionales del Perú (gob.pe)
+2024-11-25,Black Friday,fecha_comercial,Calendario comercial
+2024-11-26,Black Friday,fecha_comercial,Calendario comercial
+2024-11-27,Black Friday,fecha_comercial,Calendario comercial
+2024-11-28,Black Friday,fecha_comercial,Calendario comercial
+2024-11-29,Black Friday,fecha_comercial,Calendario comercial
+2024-12-15,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-16,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-17,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-18,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-19,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-20,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-21,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-22,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-23,Campaña navideña,fecha_comercial,Calendario comercial
+2024-12-24,Campaña navideña,fecha_comercial,Calendario comercial
+2025-04-07,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-04-08,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-04-09,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-04-10,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-05-05,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-06,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-07,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-08,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-09,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-10,Día de la Madre,fecha_comercial,Calendario comercial
+2025-05-11,Día de la Madre,fecha_comercial,Calendario comercial
+2025-06-09,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-10,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-11,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-12,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-13,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-14,Día del Padre,fecha_comercial,Calendario comercial
+2025-06-15,Día del Padre,fecha_comercial,Calendario comercial
+2025-11-03,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-11-04,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-11-05,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-11-06,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2025-11-24,Black Friday,fecha_comercial,Calendario comercial
+2025-11-25,Black Friday,fecha_comercial,Calendario comercial
+2025-11-26,Black Friday,fecha_comercial,Calendario comercial
+2025-11-27,Black Friday,fecha_comercial,Calendario comercial
+2025-11-28,Black Friday,fecha_comercial,Calendario comercial
+2025-12-15,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-16,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-17,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-18,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-19,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-20,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-21,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-22,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-23,Campaña navideña,fecha_comercial,Calendario comercial
+2025-12-24,Campaña navideña,fecha_comercial,Calendario comercial
+2026-04-20,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-04-21,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-04-22,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-04-23,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-05-04,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-05,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-06,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-07,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-08,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-09,Día de la Madre,fecha_comercial,Calendario comercial
+2026-05-10,Día de la Madre,fecha_comercial,Calendario comercial
+2026-06-15,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-16,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-17,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-18,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-19,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-20,Día del Padre,fecha_comercial,Calendario comercial
+2026-06-21,Día del Padre,fecha_comercial,Calendario comercial
+2026-07-13,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-07-14,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-07-15,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-07-16,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-11-02,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-11-03,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-11-04,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-11-05,Cyber Wow,fecha_comercial,"IAB Perú, ediciones de Cyber Wow (cyberwow.pe)"
+2026-11-23,Black Friday,fecha_comercial,Calendario comercial
+2026-11-24,Black Friday,fecha_comercial,Calendario comercial
+2026-11-25,Black Friday,fecha_comercial,Calendario comercial
+2026-11-26,Black Friday,fecha_comercial,Calendario comercial
+2026-11-27,Black Friday,fecha_comercial,Calendario comercial
+2026-12-15,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-16,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-17,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-18,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-19,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-20,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-21,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-22,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-23,Campaña navideña,fecha_comercial,Calendario comercial
+2026-12-24,Campaña navideña,fecha_comercial,Calendario comercial
+2026-03-16,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-17,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-18,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-19,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-20,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-21,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-22,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-23,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-24,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-25,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-26,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-27,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-28,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-29,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-30,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-03-31,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-01,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-02,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-03,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-04,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-05,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-06,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-07,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-08,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-09,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-10,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-11,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-04-12,"Campaña electoral, primera vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-11,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-12,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-13,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-14,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-15,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-16,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-17,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-18,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-19,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-20,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-21,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-22,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-23,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-24,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-25,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-26,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-27,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-28,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-29,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-30,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-05-31,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-01,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-02,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-03,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-04,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-05,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-06,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2026-06-07,"Campaña electoral, segunda vuelta",periodo_electoral,"JNE: primera vuelta 12/04/2026, segunda vuelta 07/06/2026"
+2025-10-02,Paro de transportistas,crisis_o_paro,"Prensa: La República, 02/10/2025"
+2025-10-04,Marcha nacional Generación Z,crisis_o_paro,"Prensa: El Búho, 04/10/2025"
+2025-10-05,Marcha nacional Generación Z,crisis_o_paro,"Prensa: El Búho, 04/10/2025"
+2025-10-06,Paro de transportistas,crisis_o_paro,"Prensa: Infobae, 06/10/2025"
+2025-10-07,Paro de transportistas,crisis_o_paro,"Prensa: Infobae, 06/10/2025"
+2025-10-10,Vacancia presidencial,crisis_o_paro,"Congreso de la República, 10/10/2025"
+2025-10-11,Vacancia presidencial,crisis_o_paro,"Congreso de la República, 10/10/2025"
+2025-10-12,Vacancia presidencial,crisis_o_paro,"Congreso de la República, 10/10/2025"
+2025-10-15,Paro y marcha nacional,crisis_o_paro,"Prensa: El Ciudadano, 13/10/2025"
+2026-01-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-01-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-02-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-03-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-04-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-05-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-06-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-07-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-08-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-09-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-10-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-11-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-01,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-02,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-03,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-04,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-05,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-06,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-07,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-08,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-09,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-10,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-11,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-12,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-13,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-14,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-15,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-16,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-17,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-18,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-19,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-20,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-21,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-22,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-23,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-24,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-25,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-26,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-27,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-28,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-29,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-30,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
+2026-12-31,El Niño costero (vigilancia o alerta),alerta_fen,"ENFEN, Comunicado Oficial N.° 01-2026 y siguientes"
