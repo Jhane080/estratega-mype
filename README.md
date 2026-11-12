@@ -75,7 +75,11 @@ uv run python scripts/generar_datos.py
 
 Las ventas inventadas esconden patrones a propósito (los lives y reels venden más, la quincena sube las ventas, los paros las bajan), y el modelo los encuentra por su cuenta. No hay datos personales de nadie. Puedes subir tus propios CSV con las mismas columnas.
 
-**Capturas:** _(pendiente: 3 capturas de la app)_
+**Capturas:**
+
+| Qué mueve tus ventas | Tu cliente objetivo | Plan de la semana |
+|---|---|---|
+| ![Modelo: qué mueve las ventas](docs/capturas/01_que_mueve_tus_ventas.png) | ![Cliente objetivo con ENAHO y Censo 2025](docs/capturas/02_tu_cliente_objetivo.png) | ![Plan de la semana](docs/capturas/03_plan_de_la_semana.png) |
 
 **Arquitectura:**
 
@@ -104,7 +108,17 @@ flowchart LR
 
 - **Quién paga:** el dueño de la MYPE que ya vende por redes y quiere crecer (no la bodega más pequeña).
 - **Precio:** S/ 49 al mes por tienda. Referencia: estas MYPES ya pagan cursos de "cómo vender por internet".
-- **Costo por usuario:** cada tienda usaría unas 4 búsquedas de tendencias y 4 planes al mes. Claude Opus 5.5 cuesta $4 por millón de tokens de entrada y $20 por millón de salida, más la búsqueda web. El servidor (Streamlit Community Cloud) es gratis para empezar. _(pendiente: medir el costo real con los tokens de una corrida)_
+- **Costo por usuario (estimado):**
+
+  | Concepto | Costo |
+  |---|---|
+  | Plan con reglas, modelo, ENAHO y censo | S/ 0 (corre en el servidor, sin IA) |
+  | 1 búsqueda de tendencias con Claude: hasta 8 búsquedas web (~US$ 0.08) + ~40 mil tokens de entrada (~US$ 0.16) + ~2 mil de salida (~US$ 0.04) | ~US$ 0.30 |
+  | 1 plan con Claude: ~5 mil tokens de entrada + ~3 mil de salida | ~US$ 0.08 |
+  | **Tienda premium al mes** (4 búsquedas + 4 planes) | **~US$ 1.50 (≈ S/ 6)** |
+  | Servidor (Streamlit Community Cloud) | S/ 0 para empezar |
+
+  Precios de Claude Opus 5.5: US$ 4 por millón de tokens de entrada y US$ 20 por millón de salida. Es un estimado: falta medirlo con los tokens de una corrida real. Con un precio de S/ 49, el margen bruto por tienda premium es de unos S/ 43. Los resultados de Claude se guardan 6 horas, así que repetir una consulta no se cobra dos veces.
 - **Siguiente paso de negocio:** probar el precio con las tiendas entrevistadas.
 
 ## 7. Herramientas del curso que usa
