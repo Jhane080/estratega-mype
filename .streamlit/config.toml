@@ -1,0 +1,46 @@
+# Tema de Estratega MYPE: verde azulado (teal), que transmite crecimiento y confianza.
+
+[theme]
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+font = "'Plus Jakarta Sans':https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+baseFontSize = 15
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+
+[theme.light]
+primaryColor = "#0F766E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0FDFA"
+textColor = "#134E4A"
+linkColor = "#0F766E"
+borderColor = "#CCFBF1"
+grayColor = "#5F7A77"
+greenColor = "#0D9488"
+blueColor = "#0E7490"
+violetColor = "#7C3AED"
+orangeColor = "#EA580C"
+chartCategoricalColors = ["#0D9488", "#F59E0B", "#0E7490", "#7C3AED", "#EA580C", "#14B8A6", "#64748B"]
+dataframeBorderColor = "#CCFBF1"
+dataframeHeaderBackgroundColor = "#F0FDFA"
+
+[theme.light.sidebar]
+backgroundColor = "#E6F7F4"
+borderColor = "#CCFBF1"
+
+[theme.dark]
+primaryColor = "#2DD4BF"
+backgroundColor = "#0B1F1D"
+secondaryBackgroundColor = "#123330"
+textColor = "#E6FFFA"
+linkColor = "#5EEAD4"
+borderColor = "#1E4D48"
+grayColor = "#94B8B3"
+chartCategoricalColors = ["#2DD4BF", "#FBBF24", "#22D3EE", "#A78BFA", "#FB923C", "#5EEAD4", "#94A3B8"]
+dataframeBorderColor = "#1E4D48"
+dataframeHeaderBackgroundColor = "#123330"
+
+[theme.dark.sidebar]
+backgroundColor = "#0F2A27"
+borderColor = "#1E4D48"
